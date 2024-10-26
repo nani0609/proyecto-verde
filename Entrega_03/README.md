@@ -79,4 +79,7 @@ La propuesta de navegación y distribución de la información está justificada
 
 4. **Organizamos las Secciones:** Dividimos cada tema en dos partes: primero, una introducción con la problemática y, después, una sección que muestra la importancia del tema con gráficos grandes y visuales claros.  
 
-5. **Jerarquía visual:** Decidimos que los gráficos e imágenes sean los protagonistas en cuanto a tamaño y posición, mientras que el texto queda en un rol de apoyo o en un tamaño similar para darle la misma importancia. Variamos la posición de los elementos en cada sección para evitar la monotonía y facilitar que el usuario mantenga el interés y siga la historia sin aburrirse. Además, optamos por incluir solo los elementos esenciales, manteniendo la cantidad de objetos al mínimo para que el diseño sea claro y no sobrecargado. 
+5. **Jerarquía visual:** Decidimos que los gráficos e imágenes sean los protagonistas en cuanto a tamaño y posición, mientras que el texto queda en un rol de apoyo o en un tamaño similar para darle la misma importancia. Variamos la posición de los elementos en cada sección para evitar la monotonía y facilitar que el usuario mantenga el interés y siga la historia sin aburrirse. Además, optamos por incluir solo los elementos esenciales, manteniendo la cantidad de objetos al mínimo para que el diseño sea claro y no sobrecargado.
+
+6. [carrusel](https://github.com/nani0609/proyecto-verde/blob/main/Entrega_03/Slides%20Documentaci%C3%B3n%20del%20Proceso%20Creativo.pdf)
+7. [video](https://youtu.be/lwq7ZY8cjYI) 
