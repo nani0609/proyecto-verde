@@ -32,6 +32,9 @@ Los datos se limpiaron y analizaron en distintas etapas:
 
 Estos análisis permitieron identificar comunas con mayores desigualdades y establecer prioridades para intervenciones urbanas.
 
+### Link al video: 
+- https://www.youtube.com/watch?v=u9j0wR9RMUs&t=8s
+
 ---
 
 ## **2. Visualizaciones Principales**
