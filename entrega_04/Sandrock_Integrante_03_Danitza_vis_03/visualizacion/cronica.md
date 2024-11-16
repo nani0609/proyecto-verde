@@ -8,4 +8,4 @@ Y aunque hay espacios que aún resisten, son pocos. Apenas un tercio de los parq
 Sin embargo, no todo está perdido. A pesar del deterioro, todavía hay niños que corren y juegan entre los espacios que quedan, familias que buscan un poco de sombra bajo un árbol seco y vecinos que, con una escoba o un balde de pintura, intentan darle vida a lo que nadie más parece cuidar.
 
 En Quilicura, los parques están ahí, esperando. Algunos resisten, otros se van apagando poco a poco. Pero todos cuentan la misma historia: la de un lugar que podría ser mucho más, si tan solo se le diera la atención que merece.
-
+[carrusel  de apoyo](https://www.canva.com/design/DAGWoIPY64Q/ZkdLpNJEUWnaMvzsLsFk0Q/edit?utm_content=DAGWoIPY64Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
