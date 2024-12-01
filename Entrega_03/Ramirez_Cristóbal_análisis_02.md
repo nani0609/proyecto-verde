@@ -1,0 +1,10 @@
+## **Aprendizaje:**
+Al momento de decidir crear el wireframe no teníamos claro en qué plataforma hacerlo y hasta qué punto había que describir las ideas de elementos de la página, considerando que lo hicimos antes de la clase y la ayudantía que subió Mario. Así que lo habíamos creado en Canvas y lo fuimos trabajando en grupo decidiendo en conjunto que nos parecía más lógico y adecuado, usando colores e inspirándonos en otros elementos de esta entrega para el diseño. Cuando ya vimos la ayudantía y la clase, entendimos claramente que era lo 
+requerido e hicimos uso de la prueba gratis de Wireframe.cc para crear nuestro trabajo. 
+Esta plataforma, que al menos yo consideré bastante intuitiva, nos permitió plasmar nuestras ideas que ya teníamos en Canvas dentro del wireframe de una manera rápida y sencilla.
+
+## **Proyecciones:**
+ A la hora de crearlo, nos fuimos dando cuenta de la complejidad del diseño y cómo algunas de nuestras ideas que componen principalmente elementos gráficos se pierden un poco en la simplicidad del wireframe, que no permite entender las ideas detrás de por qué decidimos hacerlo así. Otros elementos de la identidad visual como pueden ser la paleta de colores o la tipografía aunque no se encuentran dentro del wireframe no deberían ser complicados de aplicar en la webstory, puesto que ya realizamos el trabajo acorde para que estos convivan de una manera apacible dentro de la misma página.
+
+## **Desafíos:**
+Un gran desafío para la webstory será la creación de gráficos interesantes y que llamen  la atención de los usuarios o lectores de la página, puesto que un foco importante de este trabajo es comunicar a través de ellos información significativa y relevante. Para esto buscaremos tipos de gráficos adecuados que nos ayuden a hacer una mejor webstory. También mientras creamos el wireframe nos fuimos dando cuenta de que la distribución de elementos dentro de las diferentes páginas se puede volver un poco repetitiva. Tenemos que adornar de elementos gráficos que permitan diferenciar y darle un toque distintivo a cada página.
