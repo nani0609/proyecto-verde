@@ -1,4 +1,4 @@
-# **Readme Proyecto Lo Verde Nos DesPlaza (Ex Gran santiago verde para algunos)**
+# **Readme Proyecto Lo Verde Nos DesPlaza (Ex Gran Santiago Verde Para Algunos)**
 ## Sobre el cambio de nombre y el wireframe:
 - Decidimos cambiar el nombre de nuestro proyecto ya que sentimos que este nombre era demasiado general y tenía poco que ver con el foco más específico de nuestro reportaje.
 A la hora de empezar a desarrollar la narrativa descartamos muchas de las ideas iniciales que habíamos planteado dentro del Wireframe de la entrega 03, ya que no se adaptaban a las nuevas visiones de elementos que iban a componer nuestro reportaje
