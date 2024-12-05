@@ -1,0 +1,6 @@
+# Tercera Visualización 
+- El tercer gráfico nos permite relacionar 2 variables muy importantes dentro de nuestro reportaje, como lo son la superficie de áreas verdes y la población infantil por comuna. Esta visualización nos deja atribuir consecuencias significativamente negativas a la ausencia de áreas verdes en las comunas del Gran Santiago
+## Funciones del gráfico
+- El gráfico analiza la distribución y accesibilidad de áreas verdes en las comunas del Gran Santiago, enfocándose en su relación con la población total y especialmente con la población infantil (0-15 años). 
+- El gráfico expone disparidades significativas entre comunas a través de variables como la cantidad total de habitantes, población infantil, áreas verdes totales, áreas verdes por habitante y áreas verdes por niños.
+- Este análisis permite identificar zonas críticas, como aquellas con alta población infantil y baja disponibilidad de infraestructura verde, evidenciando inequidades en la planificación urbana. Además, se destaca cómo estas desigualdades impactan directamente en el acceso equitativo a espacios recreativos esenciales para el bienestar de la comunidad, subrayando la necesidad de intervenciones específicas que prioricen a las comunas más afectadas.
