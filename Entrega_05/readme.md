@@ -8,7 +8,7 @@ A la hora de empezar a desarrollar la narrativa descartamos muchas de las ideas 
 - Justo debajo de la portada de nuestro reportaje, seleccionamos una cita de una psicóloga chilena alemana de la Universidad Católica de Chile que introduce el tema principal de nuestro reportaje.
 - La primera sección llamada “Crecer rodeado de cemento tiene un precio”, incluye un párrafo con información relevante para la contextualización del problema que abordará este reportaje. Acompañando al texto va un vídeo en reproducción automática y sin sonido de una animación de niños jugando.
 ## Rol de cada integrante
-- ALINE BERGEN:
+- ALINE BERGEN:Me encargué de generar la base general para la página web, incluyendo la estructura (general) y parte del diseño inicial. También creé una base para el desarrollo de la narrativa, integré las imágenes y visualizaciones atómicas dentro de la página, añadí un video en la página principal (en la portada), incorporé un fondo con texturas, el diseñó el logo y el favicon.
 - CRISTOBAL RAMIREZ:
 - DANITZA SANDROCK: Mi contribución se centró en la redacción del contenido para el webstory. Ali se encargó de disponer los objetos, mientras que mi responsabilidad fue alinear los elementos y asignarles un div class, permitiendo que pudieran manejarse de manera independiente. Además, me aseguré de que los textos estuvieran correctamente integrados dentro de cuadros y que las imágenes estuvieran posicionadas a una altura adecuada para garantizar una presentación visual coherente.
 ## Nuestro personaje modelo:
