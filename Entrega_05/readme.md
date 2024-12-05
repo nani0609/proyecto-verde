@@ -14,3 +14,4 @@ A la hora de empezar a desarrollar la narrativa descartamos muchas de las ideas 
 - Para el segundo gráfico de ‘Estado de las plazas de las comunas y el tercer gráfico ‘Relación entre superficie de áreas verdes y población infantil por comuna’, seguimos una línea parecida con el uso de párrafos para presentar la información, a la vez que usamos los gráficos de manera que permita visualizar de mejor manera la situación que pretendemos exponer.
 - Cerramos la webstory con una cita y con un slideshow de imágenes que ilustran
 ## Entrega
+- Link al video presentación: https://www.youtube.com/watch?v=V8ZBSflYyFw
