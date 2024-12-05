@@ -15,3 +15,4 @@ A la hora de empezar a desarrollar la narrativa descartamos muchas de las ideas 
 - Cerramos la webstory con una cita y con un slideshow de imágenes que ilustran
 ## Entrega
 - Link al video presentación: https://www.youtube.com/watch?v=V8ZBSflYyFw
+- Link a la webstory publicada en Github Pages: https://nani0609.github.io/proyecto-verde/
