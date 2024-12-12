@@ -1,0 +1,5 @@
+# ¿Por qué una infografía?
+- Para la parte final del trabajo solíamos tener un párrafo de texto que explicaba las consecuencias de no tener áreas verdes para el uso de los niños, pero para esta entrega final decidimos hacerlo algo más interactivo
+- Por esta razón decidimos hacer uso de una infografía, puesto que los colores y el diseño ayudan a destacar la información clave de manera que no sea, tan simple como lo sería simplemente texto
+- El uso de recursos gráficos como diagramas, íconos e imágenes  permiten una mejor comprensión de parte del lector y una mejor retención de la información dispuesta 
+- Sentimos también que el diseño de esta infografía aporta a la experiencia del usuario al navegar por la página, al añadir nuevos tipos de elementos gráficos que son agradable de ver para el lector y que a su vez ayudan a que este permanezca leyendo el contenido de nuestra página web
