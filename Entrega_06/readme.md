@@ -44,6 +44,21 @@ El diseño tipográfico fue uno de los elementos que más se trabajó para dotar
 
 Para dar al proyecto un sello propio, se incluyeron ilustraciones originales que refuerzan el tema central. Estos dibujos no solo embellecen el diseño, sino que también aportan un toque emocional y humano al contenido, ayudando a conectar más profundamente con el usuario.
 
+### labor de cada integrante dentro del sitio web 
+| Elemento                   | Aline Bergen                                       | Cristóbal Ramírez                         | Danitza Sandrock                                |
+|----------------------------|----------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| **Video + título**         | Encargada de ponerlo funcionando en la página, mejorar la idea | Ideas de lo tipográfico                   | La idea del nombre                             |
+| **Cita 1 y 2**             | Ponerlo en la página                              | Buscó las citas                            | Arregló el posicionamiento                     |
+| **Gráficos 1, 2 y 3**      | Hizo gráfico 3, los puso en la página, los modificó | Hizo gráfico 3                            | Hizo gráfico 2                                 |
+| **Imagen niños 1 y 2**     | Los puso en la página                              | Decidió dónde ponerlos                     | Dibujó niños 2                                 |
+| **Carruseles**             | Encargada de hacer los carruseles                  |                                           | Hizo la información de los gráficos, buscó casos y acomodó párrafos |
+| **Párrafos**               | Participó en la escritura, encargada de la disposición en la página y ponerle contenedores de fondo | Participó en la escritura                 | Participó en la escritura, encargada de la disposición en la página y ponerle contenedores de fondo |
+| **Infografía**             | Puso la infografía en la página                    | Hizo la infografía y redactó la información existente | Escribió la información y arregló el tamaño de la infografía |
+| **Mapas**                  | Encargada de los mapas y su disposición en la página |                                           |                                                |
+| **Redacción y ortografía** |                                                    | Revisó la redacción y ortografía de la página |                                                |
+| **Extras fuera de página** | Subió los archivos de la página                    | Hizo el análisis                           | Hizo el README y el link de la página          |
+
+
 ## Estructura del Contenido
 
 El proyecto está organizado de manera que cada sección fluya lógicamente, llevando al usuario en un recorrido claro y significativo. A continuación se describe la estructura en detalle:
