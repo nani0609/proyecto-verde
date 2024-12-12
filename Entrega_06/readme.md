@@ -76,5 +76,7 @@ El proyecto concluye con una cita que resume la relevancia del tema tratado y de
 
 El propósito principal de este proyecto es generar conciencia sobre la desigualdad en el acceso a áreas verdes y su impacto en la calidad de vida, especialmente en las comunidades más vulnerables. A través de una combinación de información precisa, diseño visual atractivo y narrativa conmovedora, buscamos inspirar a los usuarios a reflexionar y actuar para cambiar esta realidad. Este proyecto es una invitación a ver más allá de los datos y conectar con las historias humanas detrás de ellos.
 
+## Link Página web
+Link: https://nani0609.github.io/proyecto-verde/
 
 
