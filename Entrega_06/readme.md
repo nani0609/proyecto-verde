@@ -1,4 +1,3 @@
-readme.md
 
 ## Propósito y Descripción General
 
