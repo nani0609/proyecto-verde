@@ -75,6 +75,10 @@ El proyecto concluye con una cita que resume la relevancia del tema tratado y de
 ## Objetivo Final del Proyecto
 
 El propósito principal de este proyecto es generar conciencia sobre la desigualdad en el acceso a áreas verdes y su impacto en la calidad de vida, especialmente en las comunidades más vulnerables. A través de una combinación de información precisa, diseño visual atractivo y narrativa conmovedora, buscamos inspirar a los usuarios a reflexionar y actuar para cambiar esta realidad. Este proyecto es una invitación a ver más allá de los datos y conectar con las historias humanas detrás de ellos.
+## Rol de cada integrante
+ALINE BERGEN: Siguiendo mi rol de la entrega anterior me encargué de agregar los nuevos elementos que teníamos comtemplados para esta entrega como fue la visualización de las plazas en Google maps para la historia de Alexander, además del carrusel de las distintas plazas en buen y mal estado. Estuve constantemene revisando y corrigiendo cualquier error que surgiera dentro del código.
+CRISTOBAL RAMIREZ: Mi aporte consistió en revisar la redacción, buscar errores ortográficos e incongruencias de la información presentada. Me encargué también del trabajo de preparar el contenido escrito que explican las visualizaciones. Trabajé en conjunto con el equipo para analizar y ajustar el contenido escrito de la webstory.
+DANITZA SANDROCK: Mi contribución se centró en la redacción del contenido para el webstory. Ali se encargó de disponer los objetos, mientras que mi responsabilidad fue alinear los elementos y asignarles un div class, permitiendo que pudieran manejarse de manera independiente. Además, me aseguré de que los textos estuvieran correctamente integrados dentro de cuadros y que las imágenes estuvieran posicionadas a una altura adecuada para garantizar una presentación visual coherente. Me encargué de redactar el readme general de eta última entrega
 
 ## Link Página web
 Link: https://nani0609.github.io/proyecto-verde/
