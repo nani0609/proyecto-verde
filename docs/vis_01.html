@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "axis": {"labelColor": "#5aa86f", "titleColor": "#5aa86f"}, "legend": {"labelColor": "#5aa86f", "titleColor": "#5aa86f"}}, "layer": [{"data": {"name": "data-ed0ae44347d724c60288b019d596c82e"}, "mark": {"type": "bar", "color": "#5aa86f"}, "encoding": {"tooltip": [{"field": "comunas", "title": "Comuna", "type": "nominal"}, {"field": "AAVV x hab", "format": ".2f", "title": "AAVV por habitante (m\u00b2)", "type": "quantitative"}, {"field": "sup AAVV m2", "format": ",", "title": "Superficie AAVV (m\u00b2)", "type": "quantitative"}], "x": {"field": "AAVV x hab", "title": "AAVV por Habitante (m\u00b2)", "type": "quantitative"}, "y": {"field": "comunas", "sort": "-x", "title": "Comunas", "type": "nominal"}}, "height": 600, "title": "Superficie de AAVV por Habitante en cada Comuna del Gran Santiago", "width": 700}, {"data": {"name": "data-ec40b4eadcd68ad0a90c642c66dfd87e"}, "mark": {"type": "rule", "color": "red", "strokeDash": [5, 5]}, "encoding": {"x": {"field": "x", "type": "quantitative"}}}], "background": "#ffff", "height": 600, "title": {"text": "Superficie de AAVV por Habitante en cada Comuna del Gran Santiago", "color": "#5aa86f", "fontSize": 20}, "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-ed0ae44347d724c60288b019d596c82e": [{"comunas": "BUIN", "sup AAVV m2": 603984.88, "AAVV x hab": 7.34}, {"comunas": "CALERA DE TANGO", "sup AAVV m2": 29946.03, "AAVV x hab": 2.61}, {"comunas": "CERRILLOS", "sup AAVV m2": 1176964.65, "AAVV x hab": 14.58}, {"comunas": "CERRO NAVIA", "sup AAVV m2": 798786.64, "AAVV x hab": 6.03}, {"comunas": "COLINA", "sup AAVV m2": 1115239.62, "AAVV x hab": 9.46}, {"comunas": "CONCHAL\u00cd", "sup AAVV m2": 417529.3, "AAVV x hab": 3.3}, {"comunas": "EL BOSQUE", "sup AAVV m2": 329261.04, "AAVV x hab": 2.03}, {"comunas": "EL MONTE", "sup AAVV m2": 1066194.41, "AAVV x hab": 3.63}, {"comunas": "ESTACI\u00d3N CENTRAL", "sup AAVV m2": 533763.86, "AAVV x hab": 3.79}, {"comunas": "HUECHURABA", "sup AAVV m2": 1061523.43, "AAVV x hab": 10.78}, {"comunas": "INDEPENDENCIA", "sup AAVV m2": 155440.97, "AAVV x hab": 1.55}, {"comunas": "ISLA DE MAIPO", "sup AAVV m2": 72272.67, "AAVV x hab": 2.69}, {"comunas": "LA CISTERNA", "sup AAVV m2": 160366.5, "AAVV x hab": 1.78}, {"comunas": "LA FLORIDA", "sup AAVV m2": 1375949.93, "AAVV x hab": 3.76}, {"comunas": "LA GRANJA", "sup AAVV m2": 848111.12, "AAVV x hab": 7.29}, {"comunas": "LA PINTANA", "sup AAVV m2": 611122.67, "AAVV x hab": 3.47}, {"comunas": "LA REINA", "sup AAVV m2": 1296980.73, "AAVV x hab": 13.99}, {"comunas": "LAMPA", "sup AAVV m2": 555319.97, "AAVV x hab": 6.88}, {"comunas": "LAS CONDES", "sup AAVV m2": 1375949.93, "AAVV x hab": 4.87}, {"comunas": "LO BARNECHEA", "sup AAVV m2": 1567804.34, "AAVV x hab": 15.21}, {"comunas": "LO ESPEJO", "sup AAVV m2": 430503.44, "AAVV x hab": 4.36}, {"comunas": "LO PRADO", "sup AAVV m2": 306691.98, "AAVV x hab": 3.2}, {"comunas": "MACUL", "sup AAVV m2": 480763.06, "AAVV x hab": 4.14}, {"comunas": "MAIP\u00da", "sup AAVV m2": 2847701.93, "AAVV x hab": 5.5}, {"comunas": "MELIPILLA", "sup AAVV m2": 364751.95, "AAVV x hab": 4.33}, {"comunas": "\u00d1U\u00d1OA", "sup AAVV m2": 508452.16, "AAVV x hab": 2.44}, {"comunas": "PADRE HURTADO", "sup AAVV m2": 393787.75, "AAVV x hab": 7.17}, {"comunas": "PAINE", "sup AAVV m2": 173383.58, "AAVV x hab": 3.74}, {"comunas": "PEDRO AGUIRRE CERDA", "sup AAVV m2": 530088.27, "AAVV x hab": 5.25}, {"comunas": "PE\u00d1AFLOR", "sup AAVV m2": 393977.81, "AAVV x hab": 4.75}, {"comunas": "PE\u00d1ALOL\u00c9N", "sup AAVV m2": 1367424.45, "AAVV x hab": 5.66}, {"comunas": "PIRQUE", "sup AAVV m2": 27703.81, "AAVV x hab": 2.41}, {"comunas": "PROVIDENCIA", "sup AAVV m2": 2121068.62, "AAVV x hab": 14.94}, {"comunas": "PUDAHUEL", "sup AAVV m2": 1048199.86, "AAVV x hab": 4.71}, {"comunas": "PUENTE ALTO", "sup AAVV m2": 2492680.23, "AAVV x hab": 4.41}, {"comunas": "QUILICURA", "sup AAVV m2": 847521.69, "AAVV x hab": 4.03}, {"comunas": "QUINTA NORMAL", "sup AAVV m2": 398697.29, "AAVV x hab": 3.63}, {"comunas": "RECOLETA", "sup AAVV m2": 2927155.99, "AAVV x hab": 18.58}, {"comunas": "RENCA", "sup AAVV m2": 680053.57, "AAVV x hab": 4.58}, {"comunas": "SAN BERNARDO", "sup AAVV m2": 1202249.04, "AAVV x hab": 4.07}, {"comunas": "SAN JOAQU\u00cdN", "sup AAVV m2": 462653.8, "AAVV x hab": 4.9}, {"comunas": "SAN JOS\u00c9 DE MAIPO", "sup AAVV m2": 43960.58, "AAVV x hab": 3.96}, {"comunas": "SAN MIGUEL", "sup AAVV m2": 212503.55, "AAVV x hab": 1.97}, {"comunas": "SAN RAM\u00d3N", "sup AAVV m2": 382752.87, "AAVV x hab": 4.63}, {"comunas": "SANTIAGO", "sup AAVV m2": 1868007.66, "AAVV x hab": 4.64}, {"comunas": "TALAGANTE", "sup AAVV m2": 409053.02, "AAVV x hab": 6.94}, {"comunas": "TILTIL", "sup AAVV m2": 78790.45, "AAVV x hab": 6.03}, {"comunas": "VITACURA", "sup AAVV m2": 1592903.19, "AAVV x hab": 18.67}], "data-ec40b4eadcd68ad0a90c642c66dfd87e": [{"x": 10}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
