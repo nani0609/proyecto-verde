@@ -1,0 +1,222 @@
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lo Verde Nos DesPlaza</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="cuadros.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="logo 1.png" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script defer src="script.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js">
+  </script>
+</head>
+<body>
+  <header class="header">
+    <video autoplay muted loop class="header-video">
+        <source src="Santiago-cielo2.mp4" type="video/mp4">
+    </video>
+    <img src="titulo.png" alt="foto_titulo"> <!-- Imagen del título -->
+</header>
+    
+  <div class="cita">
+    <p class="cita"> <em>"No necesitamos grandes parques. Necesitamos espacios intermedios, bien intervenidos, que estén cerca de la gente. No puedes pedirles a los papás que lleven a los niños al Cajón del Maipo en medio de la semana."</em> </p>
+      <p> — Romina Kurth, psicóloga.</p>
+      <p>Reportaje La Tercera "Te falta verde".</p>
+  </div>
+
+    
+    <section>
+      <h2 class="titulo1">Crecer rodeado de cemento tiene un precio...</h2>
+      <div class="grid container">
+        <p class="parrafo_grafico1">En el Gran Santiago, la desigualdad no solo se mide en ingresos, sino también en acceso a áreas verdes. Mientras comunas como Vitacura los niños tienen más posibilidades de salir al parque y jugar en espacios seguros, en sectores como Puente Alto o Maipú, la naturaleza se convierte en un lujo. Este no es solo un problema de urbanismo; es una cuestión de salud pública. La falta de contacto con la naturaleza afecta el desarrollo físico, mental y emocional de miles de niños. ¿Qué significa realmente crecer sin un pedazo de verde?</p>
+      </div>
+      <div class="nino1">
+        <img src="nino1.png" alt="un niño" width="500" >
+      </div>
+    </section>
+
+    <section>
+      <h2 class="titulo_mayor">¿Dónde está lo verde?</h2>
+      <p class="parrafos1">En un rincón bullicioso de Puente Alto vive Alexander, un niño de apenas 4 años. 
+        Todos los días asiste al Colegio Araucarias Cordillera y vuelve a su casa pasadas las 12 del día. 
+        Alexander comparte con su familia durante las mañanas y, ya en las tardes, le gusta salir a jugar. 
+        Ahí es cuando se encuentra con el <strong>problema</strong> de que las plazas más cercanas a su casa <strong>no están aptas para su uso.</strong> </p>
+      <div>
+        <div class="map-container1">
+          <iframe src="https://www.google.com/maps/embed?pb=!4v1733953828531!6m8!1m7!1suF7XIm5pkc3WHSuGnI8bNg!2m2!1d-33.58744332847335!2d-70.57099109526438!3f77.74560900112404!4f-5.7599123625055455!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>      
+        <p class="parrafos2">Antonia, su hermana mayor y quien lo acompaña cuando sale, relata: 
+        “La plaza que está en mi misma calle y en la calle de al lado <strong>son muy pequeñas, apenas hay árboles, apenas hay pasto, 
+        los juegos que hay no están en buenas condiciones.</strong> Lo único que hay son máquinas de ejercicio que <strong>no son para que juegue un niño de 4 años”.</strong>
+    </p>
+    <div class="hermanos2">
+      <img src="anto-alexander.png" alt="hermanos2" width="500" >
+    </div>
+    </section>
+    <section>
+      <p class= "parrafos0"> Por esta razón, Alexander y Antonia tienen que caminar alrededor de <strong>10 minutos</strong> para llegar a una plaza más grande que cuenta con canchas 
+          de básquetbol dispuestas para los vecinos. Aunque Alexander no juega básquetbol, igual lo pasa bien compartiendo con sus amigos en la plaza, 
+          hasta el punto de olvidarse de un factor muy importante: la presencia del sol. Antonia, consciente de esto, siempre le echa bloqueador 
+          cuando salen en verano, ya que sabe que en esa plaza casi no hay árboles que ofrezcan sombra.
+      </p>
+      <div>
+        <video autoplay muted loop class="mapita-video">
+          <source src="mapita.mp4" type="video/mp4">
+      </video>
+    </div>
+      <div class="flecha">
+        <img src="flecha.png" alt="un niño" >
+    </div>
+    <div class="map-container2">
+      <iframe src="https://www.google.com/maps/embed?pb=!4v1733964038525!6m8!1m7!1sO6IpjG4uKsjZ5g-Zr5bKqQ!2m2!1d-33.474592945645!2d-70.64928393515828!3f127.8868459666801!4f5.555444261751717!5f0.7682165871144139" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </section>
+
+  
+    <section>
+      <h2 class="titulo2">EL VERDE QUE FALTÓ</h2>
+      <p class="parrafos3">Según el Consejo Nacional de Desarrollo Urbano (CNDU), las ciudades deben ofrecer al menos 10 metros cuadrados de áreas verdes por habitante. Sin embargo, en el Gran Santiago, solo el 5,7% de la población cumple ese estándar.</p>
+      <div style="display: flex; justify-content: center; gap: 10px; margin-top:10px;">
+        <div id="vis_01" style="padding-right: 0px;"></div>
+      </div>
+      <section class="circle-section">
+        <div class="circle-container">
+            <p class="frase1">De las 52 comunas del Gran Santiago, <span class="resaltado">solo siete superan el estándar</span> de 10 m². Estas comunas son Vitacura, Recoleta, Lo Barnechea, Providencia, Cerrillos, La Reina y Huechuraba. La situación se vuelve aún más gris cuando consideramos que <span class="resaltado">más de la mitad de las comunas no alcanzan ni la mitad del estándar propuesto</span> por el Consejo Nacional.</p>
+        </div>
+        <div class="circle-container">
+            <p class="frase2"> Es importante destacar que las comunas más pobladas de la Región Metropolitana <span class="resaltado">—Puente Alto, Maipú y Santiago—</span>, que según el Censo de 2017 sumaban en conjunto alrededor de un millón y medio de personas, son parte del numeroso grupo de comunas que no cumplen ni con la mitad del estándar de áreas verdes por habitante.</p>
+        </div>
+    </section>
+   
+    <section>
+      <h2 class="titulos">¿QUÉ ES UN PARQUE DIGNO? Cuando el verde no basta </h2>     
+      </section>
+      <p class="parrafo_vis02">Primero tenemos que entender como <strong>parque urbano a toda área verde que posea una superficie mayor a 5.000 m² y un ancho mínimo de 20 metros.</strong> También se incluyen los parques lineales a partir de los 10 metros de ancho, siempre y cuando sean áreas verdes arboladas que cuenten con senderos y mobiliario que permitan su uso por parte de la comunidad. 
+        A pesar de que la mayoría de las comunas cuenta con una cantidad considerable de parques, <strong>muchos de ellos no se encuentran en buen estado.</strong> En comunas como Quilicura, Puente Alto o Renca, es más probable encontrar un parque deteriorado que obtener sello al lanzar una moneda.</p>
+
+      <section id="contexto" class="section">
+        <div style="display: flex; justify-content: center; gap: 10px; margin-top:10px;">
+          <div id="vis_02" style="padding-right: 0px;"></div>
+        </div>
+        </section>
+        <section id="cuadros" style="margin-top: 20px;">
+            <h2>¿Qué es una plaza en buen o mal estado según el MINVU?</h2>
+            <div class="container-cuadros">
+                <div class="contenedor contenedor1">
+                    <h3>Características de una plaza en buen estado</h3>
+                    <ul>
+                        <li><strong>Mantención impecable:</strong>
+                            Áreas limpias y mobiliario urbano funcional, como bancas y basureros en buen estado.
+                        </li>
+                        <li><strong>Vegetación saludable y diversa:</strong>
+                            Árboles, arbustos y césped bien cuidado que brindan sombra y un ambiente natural agradable.
+                        </li>
+                        <li><strong>Espacios seguros:</strong>
+                            Buena iluminación, diseño que facilita la visibilidad y ausencia de zonas de riesgo.
+                        </li>
+                        <li><strong>Equipamiento variado:</strong>
+                            Juegos infantiles, zonas de ejercicio, bebederos y espacios para diferentes edades.
+                        </li>
+                        <li><strong>Accesibilidad universal:</strong>
+                            Rampas y pavimentos adecuados para personas con movilidad reducida.
+                        </li>
+                    </ul>
+                    
+                </div>
+            </section>
+            <div id="carrusel-canva" class="carrusel-canva">
+    <iframe loading="lazy" src="https://www.canva.com/design/DAGZAnVKOWQ/TJ3pVwSy5tFazpynQz5QPw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+</div>
+<a href="https://www.canva.com/design/DAGZAnVKOWQ/TJ3pVwSy5tFazpynQz5QPw/view?utm_content=DAGZAnVKOWQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+    <div class="main-container">
+        <section id="container-slider">    
+            <a href="javascript: funcionEjecutar('anterior');" class="arrowPrev"><i class="fas fa-chevron-circle-left"></i></a>
+            <a href="javascript: funcionEjecutar('siguiente');" class="arrowNext"><i class="fas fa-chevron-circle-right"></i></a>
+      <ul class="listslider">
+            <li><a itlist="itList_0" href="#" class="item-select-slid"></a></li>
+            <li><a itlist="itList_1" href="#"></a></li>
+            <li><a itlist="itList_2" href="#"></a></li>
+      </ul>
+         <ul id="slider">
+          <li style="background-image: url('plaza_egaña.jpeg'); z-index:0; opacity: 1;">
+              <div class="content_slider">
+                  <div>
+                      <h2>Plaza Egaña</h2>
+                      <a target="_blank" class="btnSlider">Mal Estado</a>
+                  </div>
+              </div>
+          </li>
+          <li style="background-image: url('plaza_maipu.jpeg');">
+              <div class="content_slider">
+                  <div>
+                      <h2>Plaza de Maipú</h2>
+                      <a  target="_blank" class="btnSlider">Mal Estado</a>
+                  </div>
+              </div>
+          </li>
+          <li style="background-image: url('cisterna.jpeg');">
+              <div class="content_slider">
+                  <div>
+                      <h2>Comuna: La Cisterna</h2>
+                      <a target="_blank" class="btnSlider">Mal Estado</a>
+                  </div>
+              </div>
+          </li>
+      </ul>
+  </section>
+  <div class="contenedor contenedor2">
+    <h4>Características de una plaza en mal estado</h4>
+<ul>
+    <li><strong>Problemas de mantención:</strong>
+        Mobiliario roto, basura acumulada y pavimentos en mal estado que dificultan el uso del espacio.
+    </li>
+    <li><strong>Vegetación deficiente:</strong>
+        Césped seco, escasez de árboles y falta de cuidado en las áreas verdes.
+    </li>
+    <li><strong>Seguridad insuficiente:</strong>
+        Iluminación pobre y zonas que generan sensación de inseguridad.
+    </li>
+    <li><strong>Equipamiento limitado:</strong>
+        Falta de instalaciones para actividades recreativas, afectando su uso comunitario.
+    </li>
+    <li><strong>Accesibilidad reducida:</strong>
+        Barreras físicas que impiden el ingreso y dificultan el acceso a personas con movilidad limitada.
+    </li>
+</ul>
+
+</section>
+
+    <section>
+        <h2 class="titulos">PUENTE ALTO: El caso del déficit verde </h2>
+        <p class="parrafos4">Puente Alto es la comuna más poblada de Chile, enfrenta una crisis silenciosa que afecta a más de 200 mil niños como Alexander. Aunque esta realidad parece única por la magnitud de su población, en realidad es un reflejo de lo que sucede en muchas otras comunas de la capital.  
+            En Puente Alto, menos del 40% de las plazas tienen juegos infantiles en buen estado o sombra suficiente, una situación que también se repite en otros sectores, comparten un mismo patrón: barrios densamente poblados, escasez de inversión en infraestructura verdes y, como consecuencia, niños que crecen sin acceso a los beneficios que ofrece la naturaleza.  </p>
+      <section id="contexto" class="section">
+        <div style="display: flex; justify-content: center; gap: 10px; margin-top:10px;">
+          <div id="vis_03" style="padding-right: 0px;"></div>
+        </div>
+      </section>
+    </section>
+    
+    <section>
+      <img src="infografia.png" class="infografia" alt="infografia">
+  </section>
+        <p class=parrafos5>La ausencia de áreas verdes urbanas perjudica la salud infantil, aumentando el riesgo de enfermedades crónicas y niveles de estrés. La creación de más espacios naturales es esencial para mejorar el bienestar físico y mental de los niños.</p>
+      <section>
+        <h2 class="titulos">MÁS VERDE, MÁS FUTURO</h2>
+        <p class="cita">"Aumentar el número y la calidad de los espacios verdes puede mitigar los contaminantes climáticos de corta vida que producen un fuerte efecto de calentamiento global y contribuyen notablemente a más de 7 millones de muertes prematuras al año relacionadas con la contaminación atmosférica10. Las fuentes, los estanques, los lagos y los jardines en tejados en las zonas urbanas también moderan los extremos de temperatura y reducen el efecto urbano de isla térmica, lo que ahorra energía y mejora la calidad del clima en las ciudades.” -Nathalie Röbbel, Oficial Técnica de la Organización Mundial de la Salud </p>
+    </section>
+    <footer>
+      <p>&copy; 2024 Lo verde nos DesPlaza. Todos los derechos reservados a Aline Bergen, Cristóbal Ramírez, Danitza Sandrock.</p>
+  </footer>
+
+  <script src="graficos/vis_01.js" type="text/javascript"></script>
+  </body>
+</html>
+
+
+
