@@ -1,0 +1,14 @@
+# Propuesta de narrativa:
+## Familiarización con el tema:
+- Los usuarios al entrar a la página no entenderán automáticamente a que se refiere el título de nuestro reportaje ‘Lo Verde Nos DesPlaza’. La cita que va justo debajo del vídeo de la portada llama la atención por su mensaje y da indicios de lo que se hablará más abajo.
+- Los colores verdes y el diseño del fondo presente a lo largo de toda la página ayudan a procesar la información y a entender el contexto del reportaje
+- Nuestros títulos de cada sección, como por ejemplo ´Crecer rodeado de cemento tiene un precio’, los elegimos para que sean llamativos y resuenen con el lector
+- El primer párrafo lo terminamos con una pregunta que se responderá más tarde, de manera de que no se pierda el hilo y que incite al lector a seguir leyendo
+- En la sección de ¿Dónde está lo verde?, introducimos la historia de Benjamín de 11 años que vive en la comuna más poblada de Santiago, Puente Alto. Benjamín nos permite contar las vivencias de muchos niños como él y lo que tiene que atravesar cuando quiere salir a jugar a algún parque.
+## Comprendiendo la problemática:
+- Para entender del nivel de crisis que atraviesa el Gran Santiago sobre el acceso a áreas verdes y el por qué de contar la historia de Benjamín oriundo de Puente Alto, mostramos el gráfico de ‘Superficie de AAVV por habitante en cada comuna del Gran Santiago’, que nos permite visualizar fácilmente las disparidades al clasificarlas de mayor a menor y sobre cómo solo 7 comunas superan el estándar del Consejo Nacional de Desarrollo Urbano
+- Para adentrarnos más en el tema y retratar la realidad del Gran Santiago, presentamos otro problema al lector que es que a pesar de que existen áreas verdes, estas suelen estar en mal estado. A continuación en la sección de ‘¿Qué es un parque digno? Cuando el verde no basta’ mostramos un gráfico que presenta un mapa de las comunas de Santiago que indica la cantidad de plazas que tiene cada uno y cuántas están en mal estado bajo el estándar del MINVU
+- En la siguiente sección volvemos a Puente Alto para tratar otra problemática, que es la relación entre áreas verdes y la salud de los niños. Para visualizar esto usamos nuestro tercer gráfico que corresponde a Relación entre superficie de áreas verdes y población infantil por comuna’. 
+## Reflexiones finales:
+- En las siguientes secciones exponemos las graves consecuencias de la falta de áreas verdes en los niños, como lo son el aumento de la obesidad infantil, mayores niveles de estrés, trastornos del sueño y ansiedad. Destacamos la importancia de las áreas verdes para reducir la contaminación, estimular el ejercicio físico y promover el desarrollo cognitivo
+- La cita final y nuestra conclusión reitera la urgencia que le damos a el desarrollo de áreas verdes dignas en todas las comunas.

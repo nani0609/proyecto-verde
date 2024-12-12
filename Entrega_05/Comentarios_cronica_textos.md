@@ -1,0 +1,7 @@
+# Comentarios sobre titular, crónica y bajadas
+
+- El título 'Lo Verde Nos DesPlaza' fue seleccionado porque combina impacto y crítica social, poniéndole énfasis a la desigualdad urbana con un juego de palabras que refuerza la idea de la disparidad de acceso a áreas verdes.
+- Fue muy importante para nosotros que cada subtítulo generara un alto impacto en el lector, por eso que  decidimos dividir el contenido en secciones claras como 'El Verde que Faltó' o 'CUANDO FALTA NATURALEZA: La salud infantil en riesgo' ayuda a guiar al lector y permite profundizar cada aspecto de la problemática con un tono directo y narrativo
+- Crear a Benjamín como un personaje dentro de nuestra webstory nos permitió humanizar los datos, combinando información con vivencias que conectan emocionalmente con el lector. Este enfoque refuerza la historia detrás de los gráficos que contiene nuestra página, dejando en claro que estos tienen efectos reales y no son solo números en una pantalla
+- Las historias de niños tienen una capacidad única para generar empatía. En el caso de Benjamín, el lector puede imaginarse su vida diaria y cómo la falta de espacios verdes lo afecta directamente, lo que transforma un problema difícil de entender en una preocupación tangible
+- La simpleza de los gráficos y su interactividad ayudan a que el mensaje llegue de manera más directa al lector, evitando así problemas de legibilidad o entendimiento del problema de nuestro reportaje.
